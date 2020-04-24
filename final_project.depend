@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587652596 source:e:\oop\final_project\main.cpp
+	<iostream>
+	<random>
+	<stdlib.h>
+	"que.h"
+
+1587653016 e:\oop\final_project\que.h
+	<iostream>
+	<array>
+	<cstring>
+	<time.h>
+
