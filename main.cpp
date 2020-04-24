@@ -1,7 +1,6 @@
 // This is a Periodic Table project,that displays Information About Elements and also has a Quiz
 // Information Part By Kunal Borole
 // Major Quiz Part By Hemil Ruparale
-// Remaining Part By Rohan Yadav
 
 #include <iostream>
 #include <random>
